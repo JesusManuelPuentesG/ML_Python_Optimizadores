@@ -2,13 +2,13 @@
 
 Código utilizado para seleccionar los parámetros más óptimos en un conjunto de datos
 
-##CONTENIDO:
+## CONTENIDO:
 
-###Optimizador Bayesiano (Hyperopt)
+### Optimizador Bayesiano (Hyperopt)
 
 Se muestra el código necesario para la utilización del optimizador de hiperparámetros bayesiano Hyperopt, de forma que se seleccionen los parámetros más óptimos al utilizar un algoritmo de Machine Learning concreto. En este caso se muestra un ejemplo con el algoritmo Random Forest.
 
-###Optimizador GridSearchCV
+### Optimizador GridSearchCV
 
 Se muestra el código necesario para la utilización del estimador exhaustivo de hiperparámetros GridSearchCV, de forma que se seleccionen los parámetros más óptimos al utilizar un algoritmo de Machine Learning concreto. En este caso se muestra un ejemplo con el algoritmo basado en Árboles de Decisión.
 
